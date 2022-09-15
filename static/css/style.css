@@ -289,19 +289,20 @@ img {
 .original-btn {
   position: relative;
   z-index: 1;
-  padding: 0 30px;
-  min-width: 175px;
-  height: 60px;
+  padding: 0 15px;
+  min-width: 105px;
+  height: 40px;
   border: 1px solid;
   border-color: #dcdcdc;
   font-size: 14px;
   border-radius: 0;
-  line-height: 59px;
+  line-height: 39px;
   text-transform: uppercase;
   letter-spacing: 3px;
   font-family: "Open Sans", sans-serif;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
-  color: #000000; }
+  box-shadow: 0 0 30px rgb(0 0 0 / 10%);
+  color: #000000;
+}
   .original-btn:hover, .original-btn:focus {
     font-family: "Open Sans", sans-serif;
     color: #ffffff;
